@@ -1,4 +1,5 @@
 # IMDB Movie 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 
 ## Introduction
 
